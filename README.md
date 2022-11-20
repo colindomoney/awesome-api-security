@@ -107,6 +107,7 @@ Please read the <a href="#contributions">contributions</a> section before openin
 | [vulnapi](https://github.com/tkisason/vulnapi) | Intentionaly very vulnerable API with bonus bad coding practices. |
 | [vulnerable-graphql-api](https://github.com/CarveSystems/vulnerable-graphql-api) | A very vulnerable implementation of a GraphQL API. |
 | [Websheep](https://github.com/marmicode/websheep) | Websheep is an app based on a willingly vulnerable ReSTful APIs. |
+| [BankGround](https://gitlab.com/karelhusa/bankground) | BankGround is an open-source project to learn REST/OpenAPI and GraphQL APIs |
 
 ## Design, Architecture, Development
 | Name | Description |
